@@ -1,0 +1,1 @@
+merhaba tum kodlari ve mysql dosyasini bu depoda bulabilirsiniz.
